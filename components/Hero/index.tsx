@@ -25,11 +25,8 @@ export default function Home(): JSX.Element {
         {/* Title Overlay */}
         <div className="absolute top-5 left-5 z-10">
           <h1 className="text-3xl font-bold">
-            Sentio<span className="text-green-500">AI</span> 3D Viewer
+            Context Aware<span className="text-green-500">AR</span> 3D Viewer
           </h1>
-          <p className="text-sm opacity-70">
-            Tap NFC → Explore the model in 3D
-          </p>
         </div>
 
         {/* 3D Canvas */}
